@@ -15,7 +15,7 @@ You can use the Swift Package Manager to install FindMyIPAjitS. Add the followin
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/yourusername/FindMyIPAjitS.git", from: "1.0.0"),
+    .package(url: "https://github.com/ProAjit/FindMyIPAjitS.git", from: "1.0.0"),
 ],
 targets: [
     .target(name: "YourTargetName", dependencies: ["FindMyIPAjitS"]),
